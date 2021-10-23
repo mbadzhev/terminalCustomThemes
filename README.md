@@ -1,2 +1,2 @@
 # terminalCustomThemes
-Hello
+Hello my friend.
