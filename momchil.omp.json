@@ -35,8 +35,21 @@
           "type": "git",
           "style": "powerline",
           "powerline_symbol": "\uE0B0",
-          "foreground": "#193549",
-          "background": "#95ffa4"
+          "foreground": "#100e23",
+          "background": "#95ffa4",
+          "properties": {
+            "branch_max_length": 0,
+            "display_stash_count": true,
+            "display_upstream_icon": true,
+            "display_status": true,
+            "status_colors_enabled": true,
+            "color_background": true,
+            "local_changes_color": "#003cff",
+            "working_color": "#ff00ff",
+            "staging_color": "#e5ff00",
+            "ahead_color": "#09ff00",
+            "behind_color": "#ff0000"
+          }
         },
         {
           "type": "python",
