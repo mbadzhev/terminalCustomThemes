@@ -16,14 +16,14 @@
           "type": "session",
           "style": "diamond",
           "powerline_symbol": "\uE0B0",
-          "foreground": "#100e23",
+          "foreground": "#000000",
           "background": "#ffffff"
         },
         {
           "type": "path",
           "style": "powerline",
           "powerline_symbol": "\uE0B0",
-          "foreground": "#100e23",
+          "foreground": "#000000",
           "background": "#91ddff",
           "properties": {
             "folder_icon": "\uF115",
@@ -35,8 +35,8 @@
           "type": "git",
           "style": "powerline",
           "powerline_symbol": "\uE0B0",
-          "foreground": "#100e23",
-          "background": "#95ffa4",
+          "foreground": "#000000",
+          "background": "#ffffff",
           "properties": {
             "branch_max_length": 0,
             "display_stash_count": true,
@@ -44,18 +44,18 @@
             "display_status": true,
             "status_colors_enabled": true,
             "color_background": true,
-            "local_changes_color": "#003cff",
-            "working_color": "#ff00ff",
-            "staging_color": "#e5ff00",
-            "ahead_color": "#09ff00",
-            "behind_color": "#ff0000"
+            "local_changes_color": "#80ff91",
+            "working_color": "#000000",
+            "staging_color": "#000000",
+            "ahead_color": "#80ff91",
+            "behind_color": "#ff8080"
           }
         },
         {
           "type": "python",
           "style": "powerline",
           "powerline_symbol": "\uE0B0",
-          "foreground": "#100e23",
+          "foreground": "#000000",
           "background": "#906cff",
           "properties": {
             "prefix": " \uE235 "
