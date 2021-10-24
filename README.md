@@ -1,2 +1,2 @@
 # terminalCustomThemes
-Hello my friend.
+Oh-My-Posh theme based on the 'Paradox' theme.
